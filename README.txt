@@ -1,8 +1,16 @@
 BearEMU
 =======
 
-A Habbo Hotel R63A EMU. Made by Frosted (Lauren)
- 
-Any Questions? Email me ; Magical.Horses@mail.com
+A Habbo Hotel R63A EMU. Edited from Phoenix by Frosted (Lauren)
+ This is the development Repository for BearEMU
 
-    Hope ya Like it ;3
+ Well There's Not Much In This README file, But oh well.
+
+
+
+ --
+
+Contact Us : Magical.Horses@mail.com
+Repository : github.com/frosted/bearemu
+Official Releases : devbest.com/forums/server-releases.34/
+
